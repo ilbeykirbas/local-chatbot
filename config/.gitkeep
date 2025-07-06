@@ -1,0 +1,2 @@
+This file ensures the config/ directory is tracked by Git.
+Configuration files (like settings.json and chat_log.txt) will be generated at runtime.
