@@ -97,5 +97,7 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 ---
 
-Developed by: İlbey Kırbaş
-Github: [@ilbeykirbas](https://github.com/ilbeykirbas)
+## Author
+
+Developed by İlbey Kırbaş  
+GitHub: [@ilbeykirbas](https://github.com/ilbeykirbas)
